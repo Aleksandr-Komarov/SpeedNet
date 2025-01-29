@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SmoothProgressBar
 {
-    public partial class UserControl1: UserControl
+    public partial class SmoothProgressBar: UserControl
     {
-        public UserControl1()
+        public SmoothProgressBar()
         {
             InitializeComponent();
         }

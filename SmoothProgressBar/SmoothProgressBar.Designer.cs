@@ -1,6 +1,6 @@
 ﻿namespace SmoothProgressBar
 {
-    partial class UserControl1
+    partial class SmoothProgressBar
     {
         /// <summary>
         /// Обязательная переменная конструктора.
